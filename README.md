@@ -1,5 +1,7 @@
 # web-port
 
+all of these are taken from another project!
+
 all games are hosted on https://gn-math.github.io
 
 ## Full Game List + Credits
